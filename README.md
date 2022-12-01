@@ -3,7 +3,7 @@
 ##### BIO
 
 - ✨ Was a R&D Engineer in semiconductor industry. Am a housewife and a Machine Learning self-learner
-- 👩🏻‍💻 Python, MATLAB, Perl, C, Lua
+- 👩🏻‍💻 Python, SQL, MATLAB, Perl, C, Lua
 - 💻 macOS, Linux, Windows
 - 🌱 Live in Cambridge, UK
 - ♥️ Coding, Reading, Cooking, Baking
